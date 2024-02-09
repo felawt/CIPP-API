@@ -1,0 +1,12 @@
+{
+  "name": "Felloo - Identity Secure Score",
+  "style": "Table",
+  "Fields": [
+    {
+      "UseExistingInfo": false,
+      "FrontendFields": [
+        {}
+      ]
+    }
+  ]
+}
