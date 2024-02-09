@@ -1,5 +1,4 @@
 {
-  "name": "Felloo - Identity Secure Score",
   "style": "Table",
   "Fields": [
     {
@@ -37,5 +36,6 @@
       ],
       "StoreAs": "JSON"
     }
-  ]
+  ],
+  "name": "Felloo - Identity Secure Score"
 }
